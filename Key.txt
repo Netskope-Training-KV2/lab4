@@ -10,3 +10,13 @@ ZFIUHO54ZFOUHIO
 
 
 -----BEGIN PGP PRIVATE KEY BLOCK-----
+
+confidential
+
+riservato
+
+
+API_Key: qxu0ADXzVswHwYDVR0jBBgwFoAU0LrhAtuTzg6m7VJN2q
+API_Key:qxu0ADXzVswHwYDVR0jBBgwFoAU0LrhAtuTzg6m7VJN2q
+
+API_Key qxu0ADXzVswHwYDVR0jBBgwFoAU0LrhAtuTzg6m7VJN2q
